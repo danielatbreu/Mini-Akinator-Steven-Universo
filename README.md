@@ -1,4 +1,4 @@
-# Mini-Akinator-Steven-Universo
+# Mini Akinator - Steven Universo
 
 Este projeto é um mini Akinator inspirado no universo de Steven Universo, desenvolvido como atividade acadêmica para a disciplina de **Inteligência Artificial**. O programa foi implementado em Python e simula um jogo de adivinhação: o usuário pensa em um personagem disponível na lista, e o programa faz perguntas de sim ou não para descobrir qual foi o personagem escolhido.
 
