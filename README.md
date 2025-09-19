@@ -30,6 +30,8 @@ O programa deve ser interativo e criativo, podendo incluir mensagens personaliza
 
 **Integrante 3**: Marcela Maria Barbosa Ribeiro Araújo
 
+**Integrante 4**: Isadora Ribeiro Eugênio
+
 ## Objetivos
 
 Este projeto foi desenvolvido como atividade prática para o aprendizado de lógica de programação e inteligência artificial básica, explorando criatividade e interação com o usuário.
